@@ -16,6 +16,8 @@ Arrow keys to move
 
 Space to shoot
 
+r to respawn
+
 # Screenshot:
 
 ![alt text](/1.png)
