@@ -8,6 +8,6 @@ I recomend that you reduce the size of your terminal window and zoom in a bit fo
 
 Enjoy!
 
-#Screenshot:
+# Screenshot:
 
-![alt text](1.jpg)
+![alt text](/1.png)
