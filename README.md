@@ -10,6 +10,12 @@ I recommend that you reduce the size of your terminal window and zoom in a bit f
 
 Enjoy!
 
+# controls
+
+Arrow keys to move
+
+Space to shoot
+
 # Screenshot:
 
 ![alt text](/1.png)
