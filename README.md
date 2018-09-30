@@ -8,7 +8,7 @@ use `make` then `./ft_retro` to run the game.
 
 I recommend that you reduce the size of your terminal window and zoom in a bit for the best experiance.
 
-Enjoy!
+Fun times, Enjoy ^-^
 
 # controls
 
